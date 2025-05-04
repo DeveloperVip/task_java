@@ -1,0 +1,7 @@
+di chuyển đến folder task_java
+
+mvn clean compile
+mvn exec:java
+
+exit:
+ctrl + c

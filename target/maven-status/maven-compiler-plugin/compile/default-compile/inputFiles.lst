@@ -1,0 +1,17 @@
+D:\AN\JOB\task_java\src\main\java\com\hrmanagement\controller\ContractManager.java
+D:\AN\JOB\task_java\src\main\java\com\hrmanagement\controller\LeaveManager.java
+D:\AN\JOB\task_java\src\main\java\com\hrmanagement\controller\RecruitmentManager.java
+D:\AN\JOB\task_java\src\main\java\com\hrmanagement\dao\CandidateDAO.java
+D:\AN\JOB\task_java\src\main\java\com\hrmanagement\dao\ContractDAO.java
+D:\AN\JOB\task_java\src\main\java\com\hrmanagement\dao\EmployeeDAO.java
+D:\AN\JOB\task_java\src\main\java\com\hrmanagement\dao\impl\CandidateDAOImpl.java
+D:\AN\JOB\task_java\src\main\java\com\hrmanagement\dao\impl\ContractDAOImpl.java
+D:\AN\JOB\task_java\src\main\java\com\hrmanagement\dao\impl\EmployeeDAOImpl.java
+D:\AN\JOB\task_java\src\main\java\com\hrmanagement\dao\impl\LeaveDAOImpl.java
+D:\AN\JOB\task_java\src\main\java\com\hrmanagement\dao\LeaveDAO.java
+D:\AN\JOB\task_java\src\main\java\com\hrmanagement\Main.java
+D:\AN\JOB\task_java\src\main\java\com\hrmanagement\model\Candidate.java
+D:\AN\JOB\task_java\src\main\java\com\hrmanagement\model\Contract.java
+D:\AN\JOB\task_java\src\main\java\com\hrmanagement\model\Employee.java
+D:\AN\JOB\task_java\src\main\java\com\hrmanagement\model\Leave.java
+D:\AN\JOB\task_java\src\main\java\com\hrmanagement\util\Database.java
